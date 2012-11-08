@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/jamesr/Library/Application Support/Evernote/external edits/47A39A8C-4741-46BE-B305-6BEE541E6A35'
+let g:netrw_dirhist_2='/Users/jamesr/workspaces/rabbitmq/rabbitmq-java-client-2.8.2/src/com/rabbitmq/client'
+let g:netrw_dirhist_3='/opt/local/apache2/conf/includes'

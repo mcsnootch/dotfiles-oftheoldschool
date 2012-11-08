@@ -1,0 +1,9 @@
+
+# Compiled source files #
+#########################
+*.class
+
+# OS Generated Files #
+######################
+.DS_Store*
+

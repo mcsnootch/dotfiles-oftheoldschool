@@ -1,0 +1,23 @@
+[user]
+	name = James Roberts
+	email = mcsnootch@googlemail.com
+[color]
+	ui = auto
+[alias]
+	st = status
+	co = checkout
+	ci = commit
+	df = diff
+	aa = add --all
+	lol = log --graph --decorate --pretty --abbrev-commit
+	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+	l = log --graph --abbrev-commit --date=relative
+	r = !git l -20
+	ra = !git r --all
+
+[format]
+	pretty=format:%C(yellow)%h%Creset -%C(red)%d%Creset %s %C(green)(%ar) %C(bold blue)<%an>%Creset 
+
+
+[core]
+	excludesfile = /Users/jamesr/.gitignore_global
