@@ -21,3 +21,5 @@
 
 [core]
 	excludesfile = /Users/jamesr/.gitignore_global
+[credential]
+	helper = osxkeychain

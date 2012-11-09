@@ -8,3 +8,5 @@ alias gov='cd /Volumes/VAULT'
 
 
 alias syncphotos='rsync -av ~/VAULT/Photos/picasa/* muninn:/share/photos'
+
+export PATH=/opt/local/bin:$PATH
